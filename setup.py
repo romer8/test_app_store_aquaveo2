@@ -21,7 +21,7 @@ setup(
     keywords='',
     author='',
     author_email='',
-    url='',
+    url='https://github.com/romer8/test_app_store_aquaveo2',
     license='',
     packages=find_namespace_packages(),
     package_data={'': resource_files},
